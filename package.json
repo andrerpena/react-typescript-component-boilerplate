@@ -1,0 +1,19 @@
+{
+  "name": "react-typescript-component-boilerplate",
+  "version": "0.0.1",
+  "description": "A boilerplate for creating React components using TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrerpena/react-typescript-component-boilerplate.git"
+  },
+  "author": "André Pena (andrerpena)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andrerpena/react-typescript-component-boilerplate/issues"
+  },
+  "homepage": "https://github.com/andrerpena/react-typescript-component-boilerplate#readme"
+}
